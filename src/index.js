@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import { ThemeProvider, createTheme } from '@mui/material';
-import {   blue, red, } from '@mui/material/colors';
+import {  red, } from '@mui/material/colors';
 
  export const ThemeProvider2 = createContext(); //using usecontext hook
   let clr = 'green';

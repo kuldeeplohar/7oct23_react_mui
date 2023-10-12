@@ -7,7 +7,6 @@ import Blog from './pages/Blog';
 
 
 export default function App(props) {
-  // console.log(props.clr3)
   return (
    <>
    <BrowserRouter>
